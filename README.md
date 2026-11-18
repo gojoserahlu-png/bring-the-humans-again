@@ -1,8 +1,8 @@
 # Make.fun — from zero to your first USDC prize
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/GITHUB_OWNER/bring-the-humans-02-entry-mogawin/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/GITHUB_OWNER/bring-the-humans-02-entry-mogawin/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/gojoserahlu-png/bring-the-humans-again/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/gojoserahlu-png/bring-the-humans-again/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 **make.fun is a bounty board where you and your AI coding agent build software for real money — USDC on Solana.** Someone posts a task with a prize, you build an entry with an agent, the server checks and grades it, and if it places you claim the prize to your own wallet.
 
